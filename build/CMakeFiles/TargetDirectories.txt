@@ -1,0 +1,7 @@
+C:/Users/dude_/OneDrive/Рабочий стол/Labs/Lab5/lab5/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/dude_/OneDrive/Рабочий стол/Labs/Lab5/lab5/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/dude_/OneDrive/Рабочий стол/Labs/Lab5/lab5/build/Steck/CMakeFiles/Main.dir
+C:/Users/dude_/OneDrive/Рабочий стол/Labs/Lab5/lab5/build/SteckLib/CMakeFiles/SteckLib.dir
+C:/Users/dude_/OneDrive/Рабочий стол/Labs/Lab5/lab5/build/MultiStack/CMakeFiles/MultiStack.dir
+C:/Users/dude_/OneDrive/Рабочий стол/Labs/Lab5/lab5/build/gtest/CMakeFiles/gtest.dir
+C:/Users/dude_/OneDrive/Рабочий стол/Labs/Lab5/lab5/build/test/CMakeFiles/test_TSteck.dir

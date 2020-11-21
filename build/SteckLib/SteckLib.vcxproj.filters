@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\dude_\OneDrive\Рабочий стол\Labs\Lab5\lab5\SteckLib\Steck.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\dude_\OneDrive\Рабочий стол\Labs\Lab5\lab5\SteckLib\Steck.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\dude_\OneDrive\Рабочий стол\Labs\Lab5\lab5\SteckLib\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{F95745E9-143E-3F8B-9F86-AC47A6B570F8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{C435C9C9-80A0-389D-BE25-1CC2944B770E}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

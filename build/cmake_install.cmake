@@ -34,9 +34,9 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("C:/Users/dude_/OneDrive/Рабочий стол/Labs/Lab5/lab5/build/Steck/cmake_install.cmake")
-  include("C:/Users/dude_/OneDrive/Рабочий стол/Labs/Lab5/lab5/build/SteckLib/cmake_install.cmake")
+  include("C:/Users/dude_/OneDrive/Рабочий стол/Labs/Lab5/lab5/build/StackLib/cmake_install.cmake")
   include("C:/Users/dude_/OneDrive/Рабочий стол/Labs/Lab5/lab5/build/MultiStack/cmake_install.cmake")
+  include("C:/Users/dude_/OneDrive/Рабочий стол/Labs/Lab5/lab5/build/main/cmake_install.cmake")
   include("C:/Users/dude_/OneDrive/Рабочий стол/Labs/Lab5/lab5/build/gtest/cmake_install.cmake")
   include("C:/Users/dude_/OneDrive/Рабочий стол/Labs/Lab5/lab5/build/test/cmake_install.cmake")
 

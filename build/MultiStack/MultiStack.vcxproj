@@ -52,7 +52,7 @@
   </PropertyGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
     <ClCompile>
-      <AdditionalIncludeDirectories>C:\Users\dude_\OneDrive\Рабочий стол\Labs\Lab5\lab5\MultiStack;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>C:\Users\dude_\OneDrive\Рабочий стол\Labs\Lab5\lab5\StackLib;C:\Users\dude_\OneDrive\Рабочий стол\Labs\Lab5\lab5\MultiStack;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
       <AssemblerListingLocation>$(IntDir)</AssemblerListingLocation>
       <BasicRuntimeChecks>EnableFastChecks</BasicRuntimeChecks>
       <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
@@ -69,10 +69,10 @@
     </ClCompile>
     <ResourceCompile>
       <PreprocessorDefinitions>WIN32;_DEBUG;_WINDOWS;CMAKE_INTDIR=\"Debug\";%(PreprocessorDefinitions)</PreprocessorDefinitions>
-      <AdditionalIncludeDirectories>C:\Users\dude_\OneDrive\Рабочий стол\Labs\Lab5\lab5\MultiStack;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>C:\Users\dude_\OneDrive\Рабочий стол\Labs\Lab5\lab5\StackLib;C:\Users\dude_\OneDrive\Рабочий стол\Labs\Lab5\lab5\MultiStack;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ResourceCompile>
     <Midl>
-      <AdditionalIncludeDirectories>C:\Users\dude_\OneDrive\Рабочий стол\Labs\Lab5\lab5\MultiStack;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>C:\Users\dude_\OneDrive\Рабочий стол\Labs\Lab5\lab5\StackLib;C:\Users\dude_\OneDrive\Рабочий стол\Labs\Lab5\lab5\MultiStack;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
       <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
       <HeaderFileName>%(Filename).h</HeaderFileName>
       <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
@@ -85,7 +85,7 @@
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
     <ClCompile>
-      <AdditionalIncludeDirectories>C:\Users\dude_\OneDrive\Рабочий стол\Labs\Lab5\lab5\MultiStack;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>C:\Users\dude_\OneDrive\Рабочий стол\Labs\Lab5\lab5\StackLib;C:\Users\dude_\OneDrive\Рабочий стол\Labs\Lab5\lab5\MultiStack;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
       <AssemblerListingLocation>$(IntDir)</AssemblerListingLocation>
       <ExceptionHandling>Sync</ExceptionHandling>
       <InlineFunctionExpansion>AnySuitable</InlineFunctionExpansion>
@@ -102,10 +102,10 @@
     </ClCompile>
     <ResourceCompile>
       <PreprocessorDefinitions>WIN32;_WINDOWS;NDEBUG;CMAKE_INTDIR=\"Release\";%(PreprocessorDefinitions)</PreprocessorDefinitions>
-      <AdditionalIncludeDirectories>C:\Users\dude_\OneDrive\Рабочий стол\Labs\Lab5\lab5\MultiStack;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>C:\Users\dude_\OneDrive\Рабочий стол\Labs\Lab5\lab5\StackLib;C:\Users\dude_\OneDrive\Рабочий стол\Labs\Lab5\lab5\MultiStack;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ResourceCompile>
     <Midl>
-      <AdditionalIncludeDirectories>C:\Users\dude_\OneDrive\Рабочий стол\Labs\Lab5\lab5\MultiStack;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>C:\Users\dude_\OneDrive\Рабочий стол\Labs\Lab5\lab5\StackLib;C:\Users\dude_\OneDrive\Рабочий стол\Labs\Lab5\lab5\MultiStack;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
       <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
       <HeaderFileName>%(Filename).h</HeaderFileName>
       <TypeLibraryName>%(Filename).tlb</TypeLibraryName>

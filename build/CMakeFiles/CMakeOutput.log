@@ -9,7 +9,7 @@ The output was:
 Microsoft (R) Build Engine версии 16.2.37902+b5aaefc9f для .NET Framework
 (C) Корпорация Майкрософт (Microsoft Corporation). Все права защищены.
 
-Сборка начата 21.11.2020 16:35:16.
+Сборка начата 23.11.2020 16:53:48.
 Проект "C:\Users\dude_\OneDrive\Рабочий стол\Labs\Lab5\lab5\build\CMakeFiles\3.18.3\CompilerIdC\CompilerIdC.vcxproj" в узле 1 (целевые объекты по умолчанию).
 PrepareForBuild:
   Создание каталога "Debug\".
@@ -35,7 +35,7 @@ FinalizeBuildStatus:
     Предупреждений: 0
     Ошибок: 0
 
-Прошло времени 00:00:03.75
+Прошло времени 00:00:01.45
 
 
 Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.exe"
@@ -54,7 +54,7 @@ The output was:
 Microsoft (R) Build Engine версии 16.2.37902+b5aaefc9f для .NET Framework
 (C) Корпорация Майкрософт (Microsoft Corporation). Все права защищены.
 
-Сборка начата 21.11.2020 16:35:21.
+Сборка начата 23.11.2020 16:53:50.
 Проект "C:\Users\dude_\OneDrive\Рабочий стол\Labs\Lab5\lab5\build\CMakeFiles\3.18.3\CompilerIdCXX\CompilerIdCXX.vcxproj" в узле 1 (целевые объекты по умолчанию).
 PrepareForBuild:
   Создание каталога "Debug\".
@@ -80,7 +80,7 @@ FinalizeBuildStatus:
     Предупреждений: 0
     Ошибок: 0
 
-Прошло времени 00:00:01.62
+Прошло времени 00:00:01.00
 
 
 Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.exe"
@@ -92,28 +92,28 @@ The CXX compiler identification is MSVC, found in "C:/Users/dude_/OneDrive/Ра�
 Detecting C compiler ABI info compiled with the following output:
 Change Dir: C:/Users/dude_/OneDrive/Рабочий стол/Labs/Lab5/lab5/build/CMakeFiles/CMakeTmp
 
-Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Professional/MSBuild/Current/Bin/MSBuild.exe cmTC_03cf2.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine версии 16.2.37902+b5aaefc9f для .NET Framework
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Professional/MSBuild/Current/Bin/MSBuild.exe cmTC_2cd76.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine версии 16.2.37902+b5aaefc9f для .NET Framework
 (C) Корпорация Майкрософт (Microsoft Corporation). Все права защищены.
 
   Оптимизирующий компилятор Microsoft (R) C/C++ версии 19.22.27905 для x64
   CMakeCCompilerABI.c
   (C) Корпорация Майкрософт (Microsoft Corporation).  Все права защищены.
-  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_03cf2.dir\Debug\\" /Fd"cmTC_03cf2.dir\Debug\vc142.pdb" /Gd /TC /errorReport:queue "C:\Program Files\CMake\share\cmake-3.18\Modules\CMakeCCompilerABI.c"
-  cmTC_03cf2.vcxproj -> C:\Users\dude_\OneDrive\Рабочий стол\Labs\Lab5\lab5\build\CMakeFiles\CMakeTmp\Debug\cmTC_03cf2.exe
+  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_2cd76.dir\Debug\\" /Fd"cmTC_2cd76.dir\Debug\vc142.pdb" /Gd /TC /errorReport:queue "C:\Program Files\CMake\share\cmake-3.18\Modules\CMakeCCompilerABI.c"
+  cmTC_2cd76.vcxproj -> C:\Users\dude_\OneDrive\Рабочий стол\Labs\Lab5\lab5\build\CMakeFiles\CMakeTmp\Debug\cmTC_2cd76.exe
 
 
 
 Detecting CXX compiler ABI info compiled with the following output:
 Change Dir: C:/Users/dude_/OneDrive/Рабочий стол/Labs/Lab5/lab5/build/CMakeFiles/CMakeTmp
 
-Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Professional/MSBuild/Current/Bin/MSBuild.exe cmTC_43f9f.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine версии 16.2.37902+b5aaefc9f для .NET Framework
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Professional/MSBuild/Current/Bin/MSBuild.exe cmTC_dfed7.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine версии 16.2.37902+b5aaefc9f для .NET Framework
 (C) Корпорация Майкрософт (Microsoft Corporation). Все права защищены.
 
   Оптимизирующий компилятор Microsoft (R) C/C++ версии 19.22.27905 для x64
   CMakeCXXCompilerABI.cpp
   (C) Корпорация Майкрософт (Microsoft Corporation).  Все права защищены.
-  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_43f9f.dir\Debug\\" /Fd"cmTC_43f9f.dir\Debug\vc142.pdb" /Gd /TP /errorReport:queue "C:\Program Files\CMake\share\cmake-3.18\Modules\CMakeCXXCompilerABI.cpp"
-  cmTC_43f9f.vcxproj -> C:\Users\dude_\OneDrive\Рабочий стол\Labs\Lab5\lab5\build\CMakeFiles\CMakeTmp\Debug\cmTC_43f9f.exe
+  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_dfed7.dir\Debug\\" /Fd"cmTC_dfed7.dir\Debug\vc142.pdb" /Gd /TP /errorReport:queue "C:\Program Files\CMake\share\cmake-3.18\Modules\CMakeCXXCompilerABI.cpp"
+  cmTC_dfed7.vcxproj -> C:\Users\dude_\OneDrive\Рабочий стол\Labs\Lab5\lab5\build\CMakeFiles\CMakeTmp\Debug\cmTC_dfed7.exe
 
 
 

@@ -8,7 +8,6 @@ before_script:
 script:
   - cmake ../lab5
   - make -j
-  - ls
-  - ./test/test_TSteck
+  - ./test/MP5_TESTS
 notifications:
   email: false
